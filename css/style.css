@@ -12,8 +12,9 @@
 body {
   width: 100%;
   height: 100vh;
-  background-image: blac;
+  background-image: rgb(15, 100, 0);
   overflow: hidden;
+  bacgroud: Wp.jpg
 }
 
 nav {
